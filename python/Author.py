@@ -21,3 +21,9 @@ class Author:
     def __str__(self):
         return f'{self.__name} ({self.__gender}) at {self.__email}'
     
+def hello():
+    print("Hi how are you")
+
+
+if __name__ == "__main__":
+    hello()

@@ -1,4 +1,4 @@
-from Author import Author
+from Author import *
 
 
 anAuthor = Author("Ujjawal", "ujjawalkrgupta@gmail.com", 'm')
